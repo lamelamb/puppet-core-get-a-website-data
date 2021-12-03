@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "version": "12.0.1",
+    "Chromium":"98.070.4",
+    "puppet-core": "12.0.1"
+  },
+
+  "engines": {
+    "node": ">=10.18.1"
+  }
+
+}
